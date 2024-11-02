@@ -1,5 +1,8 @@
 # PRISM INSURANCE PVT. LTD. Dashboard Overview
 
+![image](https://github.com/user-attachments/assets/ebba63dd-cb47-4457-9fe4-fdd3ce28047f)
+
+
 # Key Metrics :
 
    **Total Premium Amount: 5.98M**
