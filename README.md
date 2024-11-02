@@ -2,7 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/ebba63dd-cb47-4457-9fe4-fdd3ce28047f)
 
+# Overview :
 
+This dashboard provides a comprehensive analysis of insurance policies, claims, and customer demographics for PRISM INSURANCE PVT. LTD. The data visualizations highlight key performance metrics and insights to guide strategic business decisions.
 # Key Metrics :
 
    **Total Premium Amount: 5.98M**
